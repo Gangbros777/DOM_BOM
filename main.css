@@ -1,0 +1,9 @@
+body{
+    background: #000;
+}
+.random_number{
+    color: red;
+    text-align: center;
+    position: relative;
+    top: 250px;
+}
